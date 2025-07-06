@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PANIGRAHI BALA SRIVATSA</h1>
 <h3 align="center">Passionate About Real-World AI</h3>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="300" alt="tech gif" />
+  <img src="[https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)" width="300" alt="tech gif" />
 </p>
 
 
