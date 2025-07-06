@@ -2,7 +2,7 @@
 <h3 align="center">⚡ Passionate About Real-World AI ⚡</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="tech gif" style="width: 500px; height: auto;"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" style="width: 800px; height: auto;"/>
 </div>
 
 ---
