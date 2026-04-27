@@ -1,108 +1,82 @@
 <div align="center">
-  
-# <span style="color:#f39c12;">PANIGRAHI BALA SRIVATSA</span>
 
-### 🚀 AI Engineer | ML Enthusiast | Full-Stack Developer
+# PANIGRAHI BALA SRIVATSA
 
-<p>
-  <em>⚡ Passionate About Real-World AI ⚡</em>
-</p>
+### AI Engineer • ML Enthusiast • Full-Stack Developer
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Building%20Intelligence&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
-## 🤝 Connect with Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/bala-srivatsa-panigrahi-7856a9325" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="display: inline-block; margin-right: 10px;"/>
-  </a>
-  <a href="https://kaggle.com/balasrivatsa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" style="display: inline-block; margin-right: 10px;"/>
-  </a>
-  <a href="https://instagram.com/balu__9105" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="display: inline-block; margin-right: 10px;"/>
-  </a>
-  <a href="https://www.hackerrank.com/p_b_s_vatsa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" style="display: inline-block; margin-right: 10px;"/>
-  </a>
-  <a href="https://www.leetcode.com/balasrivatsa_panigrahi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" style="display: inline-block; margin-right: 10px;"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/balasrivats57pv" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" style="display: inline-block; margin-right: 10px;"/>
-  </a>
-</p>
+## 🚀 About Me
+
+- 🧠 Building **real-world AI systems**
+- ⚙️ Turning **data into decisions**
+- 🌱 Exploring **LLMs, MLOps & scalable AI**
+- 🎯 Goal: Contribute to impactful open-source AI
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-</p>
+### 🌐 Development
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-</p>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL_Server-111?style=for-the-badge&logo=microsoftsqlserver)
+![Oracle](https://img.shields.io/badge/Oracle-111?style=for-the-badge&logo=oracle)
 
-### 🤖 AI, ML & Data Science
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-</p>
+### 🤖 AI / ML
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-111?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
 
-### ☁️ Cloud Platform
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" style="display: inline-block; margin-right: 15px;"/>
-</p>
+### ☁️ Cloud
+![GCP](https://img.shields.io/badge/Google_Cloud-111?style=for-the-badge&logo=googlecloud)
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-<p align="left">
-  🔭 Building production-grade AI applications<br/>
-  🌱 Advancing in MLOps & Cloud AI deployment<br/>
-  💡 Exploring LLMs and Generative AI<br/>
-  🎯 2025 Goal: Contribute to open-source AI projects
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=balasrivatsa_panigrahi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
-## 📫 Let's Collaborate!
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balasrivatsa_panigrahi&theme=tokyonight&hide_border=true" height="150"/>
 
-<p align="left">
-  I'm always open to discussing <strong>AI/ML projects</strong>, <strong>full-stack development</strong>, or <strong>innovative tech ideas</strong>. Feel free to reach out!
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Transforming data into intelligence, one algorithm at a time."</i>
-</p>
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bala-srivatsa-panigrahi-7856a9325)
+[![Kaggle](https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle)](https://kaggle.com/balasrivatsa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/balasrivatsa_panigrahi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/p_b_s_vatsa)
+
+</div>
+
+---
+
+<div align="center">
+
+*"From raw data to refined intelligence — quietly building what matters."*
+
+</div>
