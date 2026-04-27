@@ -108,7 +108,6 @@
 | 🔭 **Current Project** | Building production-grade AI applications |
 | 🌱 **Learning** | MLOps & Cloud AI deployment |
 | 💡 **Exploring** | LLMs and Generative AI |
-| 🎯 **2025 Goal** | Contribute to open-source AI projects |
 
 ---
 
