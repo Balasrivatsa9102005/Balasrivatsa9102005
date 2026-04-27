@@ -4,9 +4,7 @@
 
 ### AI Engineer • ML Enthusiast • Full-Stack Developer
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="800"/>
 
 </div>
 
