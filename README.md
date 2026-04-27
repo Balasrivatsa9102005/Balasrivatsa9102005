@@ -4,6 +4,8 @@
 
 ### AI Engineer • ML Enthusiast • Full-Stack Developer
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1094163671983549477" height="353" width="450" frameborder="0" scrolling="no"></iframe>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Building%20Intelligence&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
@@ -47,14 +49,6 @@
 
 ### ☁️ Cloud
 ![GCP](https://img.shields.io/badge/Google_Cloud-111?style=for-the-badge&logo=googlecloud)
-
----
-
-## 🎨 AI Animation
-
-<div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1094163671983549477" height="353" width="450" frameborder="0" scrolling="no"></iframe>
-</div>
 
 ---
 
