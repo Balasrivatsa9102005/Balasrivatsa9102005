@@ -50,14 +50,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 AI Animation
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=balasrivatsa_panigrahi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balasrivatsa_panigrahi&theme=tokyonight&hide_border=true" height="150"/>
-
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1094163671983549477" height="353" width="450" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ---
@@ -70,6 +66,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle)](https://kaggle.com/balasrivatsa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/balasrivatsa_panigrahi)
 [![HackerRank](https://img.shields.io/badge/HackerRank-111?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/p_b_s_vatsa)
+[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram)](https://instagram.com/balu__9105)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-111?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/balasrivats57pv)
 
 </div>
 
