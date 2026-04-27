@@ -19,12 +19,8 @@
         <li>🧠 Building <strong>real-world AI systems</strong></li>
         <li>⚙️ Turning <strong>data into decisions</strong></li>
         <li>🌱 Exploring <strong>LLMs, MLOps & scalable AI</strong></li>
-        <li>🎯 2025 Goal: Contribute to impactful open-source AI</li>
         <li>⚡ Passionate About <strong>Real-World AI</strong></li>
       </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ0a2I5bWZ4a2N1cG5kN2g4bXZzZmZ0eXJ6bGZxbGZ6bGZ6bGZ6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120"/>
     </td>
    </tr>
 </table>
